@@ -1,0 +1,8 @@
+#pf_foto {
+    background-image: url('');
+    background-size: cover;
+    background-position: center;
+    height: 1200px;
+    width: 1200px;
+    border: 1px solid #000;
+}
